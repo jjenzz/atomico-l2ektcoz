@@ -1,0 +1,12 @@
+{
+  "name": "@wcd/jjenzz.atomico-l2ektcoz",
+  "version": "0.0.0",
+  "description": "",
+  "license": "ISC",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve F8BGIJHSS2t8VhDD6LCK --open"
+  },
+  "dependencies": {}
+}
